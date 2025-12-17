@@ -1,10 +1,12 @@
 # Issue Tracker
 
-## TODOS
+## Legend
 
-> LOW = Low Priority
-> MID = Middle Priority
-> HIG = High Priority
+* LOW = Low Priority
+* MID = Middle Priority
+* HIG = High Priority
+
+## TODOS
 
 * [ HIG ] Fix installer gui
 * [ MID ] Update packages to newer
