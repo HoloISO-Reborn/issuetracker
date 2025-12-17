@@ -2,9 +2,9 @@
 
 ## TODOS
 
-LOW = Low Priority
-MID = Middle Priority
-HIG = High Priority
+> LOW = Low Priority
+> MID = Middle Priority
+> HIG = High Priority
 
 * [ HIG ] Fix installer gui
 * [ MID ] Update packages to newer
