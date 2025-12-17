@@ -11,4 +11,5 @@
 * [ HIG ] Fix installer gui
 * [ MID ] Update packages to newer
 * [ MID ] Support Testing
+* [ MID ] AMD linux support check
 * [ LOW ] Neofetch config
