@@ -8,7 +8,7 @@
 
 ## TODOS
 
-* [ HIG ] Fix installer gui
+* [ HIG ] Fix Bootloader not installing
 * [ MID ] Update packages to newer
 * [ MID ] Support Testing
 * [ MID ] AMD linux support check
