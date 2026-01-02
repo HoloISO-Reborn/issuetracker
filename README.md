@@ -8,8 +8,9 @@
 
 ## TODOS
 
-* [ HIG ] Fix Bootloader not installing
+* [ HIG ] Black screen of death
 * [ MID ] Update packages to newer
 * [ MID ] Support Testing
 * [ MID ] AMD linux support check
+* [ LOW ] installer showing kde welcome screen
 * [ LOW ] Neofetch config
