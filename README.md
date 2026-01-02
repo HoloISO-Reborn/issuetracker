@@ -12,5 +12,6 @@
 * [ MID ] Update packages to newer
 * [ MID ] Support Testing
 * [ MID ] AMD linux support check
+* [ MID ] Rewrite the installer for more options and stability (and yes better design)
 * [ LOW ] installer showing kde welcome screen
 * [ LOW ] Neofetch config
