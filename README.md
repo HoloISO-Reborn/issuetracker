@@ -8,7 +8,7 @@
 
 ## TODOS
 
-* [ HIG ] Black screen of death
+* [ HIG ] Black screen of death - possibly drivers or bad sddm configuration
 * [ MID ] Update packages to newer
 * [ MID ] Support Testing
 * [ MID ] AMD linux support check
