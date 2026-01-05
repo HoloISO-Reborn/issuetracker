@@ -8,6 +8,7 @@
 
 ## TODOS
 
+* [ HIG ] Multiple confirmed cases of holo_root not being found, even when it exists
 * [ HIG ] Black screen of death - possibly drivers or bad sddm configuration
 * [ MID ] Update packages to newer
 * [ MID ] Support Testing
