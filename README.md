@@ -17,4 +17,5 @@
 * [ LOW ] installer showing kde welcome screen
 * [ LOW ] Neofetch config
 * [ LOW ] Make build script cd into root repo automaticaly
-
+* [ LOW ] Add more documentation
+* [ LOW ] Add issue template
