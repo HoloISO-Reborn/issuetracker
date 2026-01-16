@@ -17,8 +17,8 @@ This document provides a detailed overview of the installer flow for the HoloISO
 
 1. The user boots from the installation media (USB/DVD). Must boot from UEFI, legacy BIOS not supported. Max support will be given to BIOS with UEFI compatibility mode. (must run .EFI files)
 2. GRUB loads the Linux kernel and initial RAM disk (initrd) from the installation media.
-3. Installer boots into a live environment, simmilar to SteamOS KDE desktop environment. (/etc/sddm.conf.d/autologin.conf)
-4. User launches the installer application from the desktop. (/home/holoiso/Desktop/install.desktop OR holoiso-installer/home/holoiso/Desktop/install.desktop)
+3. Installer boots into a live environment, simmilar to SteamOS KDE desktop environment. (/etc/sddm.conf.d/autologin.conf) 
+4. User launches the installer application from the desktop. (/home/holoiso/Desktop/install.desktop)
 
 ## Downloading Installer Files
 
