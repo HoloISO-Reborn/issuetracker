@@ -20,3 +20,5 @@
 * [ LOW ] Add more documentation
 * [ LOW ] Add issue template
 * [ ADD ] Asus tuf keyboard settings or driver
+* [ ADD ] https://wiki.archlinux.org/title/Dell_G15_5530
+
