@@ -1,10 +1,10 @@
 # Issue Tracker
 
 ## Legend
-
-* LOW = Low Priority
-* MID = Middle Priority
 * HIG = High Priority
+* MID = Middle Priority
+* LOW = Low Priority
+* ADD = Optional additions that can be planned
 
 ## TODOS
 
@@ -19,3 +19,4 @@
 * [ LOW ] Make build script cd into root repo automaticaly
 * [ LOW ] Add more documentation
 * [ LOW ] Add issue template
+* [ ADD ] Asus tuf keyboard settings or driver
