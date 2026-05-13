@@ -1,6 +1,7 @@
 # Issue Tracker
 
 ## Legend
+
 * HIG = High Priority
 * MID = Middle Priority
 * LOW = Low Priority
@@ -14,11 +15,9 @@
 * [ MID ] Support Testing
 * [ MID ] AMD linux support check
 * [ MID ] Rewrite the installer for more options and stability (and yes better design)
-* [ LOW ] installer showing kde welcome screen
 * [ LOW ] Neofetch config
 * [ LOW ] Make build script cd into root repo automaticaly
 * [ LOW ] Add more documentation
 * [ LOW ] Add issue template
 * [ ADD ] Asus tuf keyboard settings or driver
 * [ ADD ] https://wiki.archlinux.org/title/Dell_G15_5530
-
