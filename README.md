@@ -10,6 +10,8 @@
 ## Bugs
 
 * [ HIG ] Black screen of death - possibly drivers or bad sddm configuration
+* * startplasma-steamos-oneshot fails -> possible issue
+* * gamescope version mismatch -> possible issue with ossupport version of gamescope
 * [ HIG ] Multiple confirmed cases of holo_root not being found, even when it exists (prolly initram failing to load btrfs)
 * [ MID ] Installer on screen keyboard doesnt work correctly on wayland, replace with maliit-keyboard
 * [ MID ] plymouth logo not showing for some reason in boot
