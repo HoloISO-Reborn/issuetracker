@@ -16,6 +16,7 @@
 
 ## TODOS
 
+* [ HIG ] NVIDIA support via optional driver layers [nvidia_plan.md](docs/dev/nvidia_plan.md)
 * [ MID ] Update packages to newer
 * [ MID ] Support Testing
 * [ MID ] AMD linux support check
