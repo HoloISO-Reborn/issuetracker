@@ -81,7 +81,7 @@ Do NOT include:
 - Userspace NVIDIA version must match kernel modules.
 - Only ONE NVIDIA layer may be mounted simultaneously.
 - Driver layer must load BEFORE display-manager.service.
-- NVIDIA is NOT required in initramfs.
+- only works if NVIDIA is NOT required in initramfs.
 
 ## Advantages
 
@@ -90,4 +90,4 @@ Do NOT include:
 - Keeps AMD/Intel SteamOS behavior untouched.
 - Allows optional NVIDIA support.
 - No separate ISO builds per GPU vendor.
-- Compatible with overlayfs/squashfs root layouts.
+- Compatible with squashfs root layout already used.
