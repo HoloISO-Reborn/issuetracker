@@ -91,3 +91,7 @@ Do NOT include:
 - Allows optional NVIDIA support.
 - No separate ISO builds per GPU vendor.
 - Compatible with squashfs root layout already used.
+
+## Useful Links
+
+<https://github.com/mataha/arch-nvidia>
